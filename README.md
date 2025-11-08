@@ -1,4 +1,4 @@
-# Salut, moi c'est **TonNom** 👋
+# Salut, moi c'est Pierre Rochette 👋
 
 🎯 **Passionné par la Data**, toujours curieux, toujours en mouvement.  
 📍 Basé en France, ouvert aux **collaborations**, aux nouveaux projets et à l’aventure d’apprendre.  
@@ -33,16 +33,15 @@ Saya selalu terbuka untuk kolaborasi, berbagi pengetahuan, dan menghadapi tantan
 
 ## 📈 Stats (parce que ça fait bien)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNom&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNom&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PierreRochette&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreRochette&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Me Contacter
 
-- ✉️ Email : ton.email@example.com  
-- 💼 LinkedIn : https://www.linkedin.com/in/ton-lien  
-- 🌐 Portfolio (si tu en as un) : https://tonportfolio.com
+- ✉️ Email : pierrerochette.pro@gmail.com
+- 💼 LinkedIn : [https://www.linkedin.com/in/ton-lien](https://www.linkedin.com/in/pierre-rochette-a90332151/)  
 
 ---
 
