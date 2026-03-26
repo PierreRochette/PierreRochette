@@ -3,7 +3,7 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pierre-rochette-a90332151/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pierrerochette.pro@gmail.com)
 
-## 🇫🇷 About Me
+## 🇫🇷 A propos
 
 Je suis un apprenti BI Analyst & Engineer, basé à Strasbourg. 
 
